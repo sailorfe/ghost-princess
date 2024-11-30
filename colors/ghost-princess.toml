@@ -1,31 +1,31 @@
 [colors]
 ansi = [
-    '#280c17',
+    '#1c0817',
     '#ed1d2f',
     '#d673d9',
     '#ff5c74',
     '#8896c8',
     '#ff72b3',
     '#d5396a',
-    '#f6c9d5',
+    '#ecc9ef',
 ]
-background = '#140409'
+background = '#0e030b'
 brights = [
-    '#3d1626',
+    '#2a0e25',
     '#ff4d4a',
     '#f993fb',
     '#ff7f92',
     '#a8b6ea',
     '#ff94d4',
     '#fa5d88',
-    '#ffe0ee',
+    '#f9e3fb',
 ]
 cursor_bg = '#fec8d5'
 cursor_border = '#ff94d4'
-cursor_fg = '#280c17'
+cursor_fg = '#2a0e25'
 foreground = '#fec8d5'
-selection_bg = '#d963b9'
-selection_fg = '#3d1626'
+selection_bg = '#ff72b3'
+selection_fg = '#2a0e25'
 
 [metadata]
 aliases = []
