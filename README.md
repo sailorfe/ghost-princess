@@ -30,7 +30,7 @@ config.local {
 
 ```sh
 git clone https://github.com/sailorfe/ghost-princess.git
-cp ghost-princess/colors/ghost-princess.toml ~/.vim/colors
+cp ghost-princess/colors/ghost-princess.vim ~/.vim/colors
 ```
 Open `.vim/colors/ghost-princess.vim` and `:source` it. Then in `.vim/vimrc`:
 
