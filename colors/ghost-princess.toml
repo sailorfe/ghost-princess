@@ -21,11 +21,11 @@ brights = [
     '#f9e3fb',
 ]
 cursor_bg = '#fec8d5'
-cursor_border = '#ecc9ef'
+cursor_border = '#ff94d4'
 cursor_fg = '#2a0e25'
 foreground = '#fec8d5'
-selection_bg = '#d963b9'
-selection_fg = '#3d1626'
+selection_bg = '#ff72b3'
+selection_fg = '#2a0e25'
 
 [metadata]
 aliases = []
