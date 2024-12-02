@@ -54,3 +54,13 @@ set background=dark
 colorscheme ghost-princess
 syntax on
 ```
+
+## Screenshots
+
+<div align="center">
+    
+![lua in vim](assets/vim.png)
+
+![spotify_player](assets/sp.png)
+
+</div>
