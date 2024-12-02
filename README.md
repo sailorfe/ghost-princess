@@ -1,13 +1,15 @@
-# Ghost Princess
-
-a pink-tinged dark terminal theme inspired by ghost princess perona and her beloved kumashi
-
 <div align="center">
+
+# ghost princess
+
+a pink-tinged dark theme inspired by ghost princess perona of thriller bark
 
 ![ghost princess](assets/bash.png)
 ![thriller bark](assets/op-thriller-bark.png)
 
 </div>
+
+## Palette
 
 | name       | ansi                                                                | bright                                                                   |
 | ---------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
