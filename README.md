@@ -13,7 +13,7 @@ a pink-tinged dark theme inspired by ghost princess perona of thriller bark
 
 | name       | ansi                                                                | bright                                                                   |
 | ---------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| background | ![#0e030b](https://placehold.co/15x15/0e030b/0e030b.png) `#fec8d5` |                                                                    |
+| background | ![#0e030b](https://placehold.co/15x15/0e030b/0e030b.png) `#0e030b` |                                                                    |
 | foreground | ![#fec8d5](https://placehold.co/15x15/fec8d5/fec8d5.png) `#fec8d5` |                                                                    |
 | black      | ![#1c0817](https://placehold.co/15x15/1c0817/1c0817.png) `#1c0817` | ![#2a0e25](https://placehold.co/15x15/2a0e25/2a0e25.png) `#2a0e25` |
 | red        | ![#ed1d2f](https://placehold.co/15x15/ed1d2f/ed1d2f.png) `#ed1d2f` | ![#ff4d4a](https://placehold.co/15x15/ff4d4a/ff4d4a.png) `#ff4d4a` |
