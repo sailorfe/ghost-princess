@@ -15,7 +15,7 @@ a pink-tinged dark theme inspired by ghost princess perona of thriller bark
 | ---------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | background | ![#0e030b](https://placehold.co/15x15/0e030b/0e030b.png) `#0e030b` |                                                                    |
 | foreground | ![#fec8d5](https://placehold.co/15x15/fec8d5/fec8d5.png) `#fec8d5` |                                                                    |
-| black      | ![#160813](https://placehold.co/15x15/160813/160813.png) `#160813` | ![#2a1926](https://placehold.co/15x15/2a1926/2a1926.png) `#2a1926` |
+| black      | ![#160813](https://placehold.co/15x15/160813/160813.png) `#160813` | ![#271823](https://placehold.co/15x15/271823/271823.png) `#271823` |
 | red        | ![#ed1d2f](https://placehold.co/15x15/ed1d2f/ed1d2f.png) `#ed1d2f` | ![#ff4d4a](https://placehold.co/15x15/ff4d4a/ff4d4a.png) `#ff4d4a` |
 | green      | ![#d673d9](https://placehold.co/15x15/d673d9/d673d9.png) `#d673d9` | ![#f993fb](https://placehold.co/15x15/ff93fb/f993fb.png) `#f993fb` |
 | yellow     | ![#ff5c74](https://placehold.co/15x15/ff5c74/ff5c74.png) `#ff5c74` | ![#ff7f92](https://placehold.co/15x15/ff7f92/ff7f92.png) `#ff7f92` |

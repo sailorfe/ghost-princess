@@ -11,7 +11,7 @@ ansi = [
 ]
 background = '#0e030b'
 brights = [
-    '#2a1926',
+    '#271823',
     '#ff4d4a',
     '#f993fb',
     '#ff7f92',
@@ -28,7 +28,7 @@ selection_bg = '#ff72b3'
 selection_fg = '#2a0e25'
 
 [metadata]
-aliases = []
+aliases = ['Perona', 'ghost-princess']
 author = 'sailorfe'
 name = 'Ghost Princess'
 origin_url = 'https://github.com/sailorfe/ghost-princess'
